@@ -1,6 +1,7 @@
 # Weather Telemetry ETL Using Airflow and Postgres
 
 A distributed ETL pipeline that collects, transforms, and stores real-time weather telemetry for all 50 U.S. states, Washington D.C., and Puerto Rico. This pipeline uses **Apache Airflow** for orchestration, **Open-Meteo API** for weather data, and **PostgreSQL** for storage. It simulates multi-day weather ingestion for advanced time-series analysis in **Tableau** (integration in progress).
+
 ---
 
 ## Features
